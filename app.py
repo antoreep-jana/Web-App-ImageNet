@@ -52,12 +52,12 @@ app = Flask(__name__)
 
 
 # You can use pretrained model from Keras 
-from tensorflow.keras.applications import DenseNet201
-#Model_path = 'models/model_densenet201.h5'
+from tensorflow.keras.applications import MobileNetV2
+Model_path = 'models/model_mobilenetv2.h5'
 try:
-    model = DenseNet201(weights = Model_path)
+    model = MobileNetV2(weights = Model_path)
 except:
-    model = DenseNet201(weights = 'imagenet')
+    model = MobileNetV2(weights = 'imagenet')
 
 
 print("Model loaded. ")
