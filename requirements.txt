@@ -26,7 +26,6 @@ itsdangerous==1.1.0
 Jinja2==2.11.2
 Markdown
 MarkupSafe
-mkl-fft==1.2.0
 mkl-random==1.1.1
 mkl-service==2.3.0
 multidict
