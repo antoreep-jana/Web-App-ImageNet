@@ -46,8 +46,8 @@ scipy
 six==1.15.0
 tensorboard
 tensorflow-cpu
-numpy
-gast
+numpy==1.16.0
+gast==0.3.3
 tensorflow-estimator
 termcolor==1.1.0
 urllib3
