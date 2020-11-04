@@ -12,7 +12,6 @@ chardet==3.0.4
 click==7.1.2
 cryptography
 Flask==1.1.2
-gast==0.2.2
 gevent
 google-auth
 google-auth-oauthlib
@@ -27,7 +26,6 @@ Jinja2==2.11.2
 Markdown
 MarkupSafe
 multidict
-numpy
 oauthlib==3.1.0
 olefile==0.46
 opt-einsum==3.1.0
@@ -48,7 +46,9 @@ scipy
 six==1.15.0
 tensorboard
 tensorflow-cpu
-tensorflow-estimator==2.1.0
+numpy
+gast
+tensorflow-estimator
 termcolor==1.1.0
 urllib3
 Werkzeug==0.16.1
