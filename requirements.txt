@@ -1,65 +1,65 @@
-absl-py @ file:///C:/ci/absl-py_1603893176799/work
-aiohttp @ file:///C:/ci/aiohttp_1602530358780/work
+absl-py
+aiohttp
 astor==0.8.1
 async-timeout==3.0.1
-attrs @ file:///tmp/build/80754af9/attrs_1600298409949/work
+attrs
 blinker==1.4
 brotlipy==0.7.0
-cachetools @ file:///tmp/build/80754af9/cachetools_1596822027882/work
+cachetools
 certifi==2020.6.20
-cffi @ file:///C:/ci/cffi_1600699250966/work
+cffi
 chardet==3.0.4
 click==7.1.2
-cryptography @ file:///C:/ci/cryptography_1601046913206/work
+cryptography
 Flask==1.1.2
 gast==0.2.2
-gevent @ file:///C:/ci/gevent_1601397624717/work
-google-auth @ file:///tmp/build/80754af9/google-auth_1604100403705/work
-google-auth-oauthlib @ file:///tmp/build/80754af9/google-auth-oauthlib_1603929124518/work
+gevent
+google-auth
+google-auth-oauthlib
 google-pasta==0.2.0
-greenlet @ file:///C:/ci/greenlet_1600874076725/work
-grpcio @ file:///C:/ci/grpcio_1597406403308/work
+greenlet
+grpcio
 h5py==2.10.0
-idna @ file:///tmp/build/80754af9/idna_1593446292537/work
-importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1602276842396/work
+idna
+importlib-metadata
 itsdangerous==1.1.0
 Jinja2==2.11.2
-Markdown @ file:///C:/ci/markdown_1603216569530/work
-MarkupSafe @ file:///C:/ci/markupsafe_1594405949945/work
+Markdown
+MarkupSafe
 mkl-fft==1.2.0
 mkl-random==1.1.1
 mkl-service==2.3.0
-multidict @ file:///C:/ci/multidict_1600456486794/work
-numpy @ file:///C:/ci/numpy_and_numpy_base_1603468620949/work
+multidict
+numpy
 oauthlib==3.1.0
 olefile==0.46
 opt-einsum==3.1.0
-Pillow @ file:///C:/ci/pillow_1603821929285/work
+Pillow
 protobuf==3.13.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pycparser
 PyJWT==1.7.1
-pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1594392929924/work
+pyOpenSSL
 pyreadline==2.1
-PySocks @ file:///C:/ci/pysocks_1594394709107/work
+PySocks
 PyYAML==5.3.1
-requests @ file:///tmp/build/80754af9/requests_1592841827918/work
+requests
 requests-oauthlib==1.3.0
-rsa @ file:///tmp/build/80754af9/rsa_1596998415516/work
-scipy @ file:///C:/ci/scipy_1597686737426/work
+rsa
+scipy
 six==1.15.0
-tensorboard @ file:///home/builder/ktietz/conda/conda-bld/tensorboard_1604313476433/work/tmp_pip_dir
+tensorboard
 tensorboard-plugin-wit==1.6.0
 tensorflow==2.1.0
 tensorflow-estimator==2.1.0
 termcolor==1.1.0
-urllib3 @ file:///tmp/build/80754af9/urllib3_1603305693037/work
+urllib3
 Werkzeug==0.16.1
 win-inet-pton==1.1.0
 wincertstore==0.2
 wrapt==1.12.1
-yarl @ file:///C:/ci/yarl_1602679793616/work
-zipp @ file:///tmp/build/80754af9/zipp_1604001098328/work
+yarl
+zipp
 zope.event==4.5.0
-zope.interface @ file:///C:/ci/zope.interface_1602002496598/work
+zope.interface
