@@ -25,8 +25,6 @@ itsdangerous==1.1.0
 Jinja2==2.11.2
 Markdown
 MarkupSafe
-mkl-random==1.1.1
-mkl-service==2.3.0
 multidict
 oauthlib==3.1.0
 olefile==0.46
